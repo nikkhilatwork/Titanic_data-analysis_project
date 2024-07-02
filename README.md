@@ -5,6 +5,7 @@
 #reading & observing data 
 
 #we can read csv file using df = pd.read_csv
+
 #df
 
 #df.head() => shows 1st 5 values  of dataset.
@@ -20,8 +21,8 @@
 #Importance of data cleaning => 
       a) Accurate data is essential for making informed decisions.
       b) data cleaning can help  identify and prevent errors 
-      c)data cleaning improves quality of data by removing duplicates, errors
-      d)it will improve efficiency of data
+      c) data cleaning improves quality of data by removing duplicates, errors
+      d) it will improve efficiency of data
 
 #Handeling missing/null values => we will removing the null values (NaN) from data.
 
